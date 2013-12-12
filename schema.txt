@@ -1,0 +1,1 @@
+District_Manager_Name:string,District_Name:string,EndDate:string,Region_Market:string,Region_Market_Manager:string,Region_Store_Manager_Name:string,StartDate:string,Store:string,Store_Type:string,StoreCounter:string,County:string,Country_Code:string,Coordinates:string,GeoCodeKey:string,Latitude:string,Longitude:string
